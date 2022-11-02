@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://i.ibb.co/RHKNyLt/Dark-Neon-Simple-Futuristic-UIUX-Designer-Linked-In-Banner.jpg">
+<img align="center" alt="Coding"  src="https://i.ibb.co/nrQPyXN/nikesh-banner.jpg">
 <h1 align="center">Hi 👋, I'm Nikesh Dahal</h1>
 <h3 align="center">A passionate Web developer from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
